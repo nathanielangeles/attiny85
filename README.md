@@ -25,7 +25,7 @@ Tools > Board > Boards Manager:
 
 Digistump AVR Boards
 
-Install.
+Install. Then change the Board to Digispark (Default 16.5mhz).
 ```
 
 ```
